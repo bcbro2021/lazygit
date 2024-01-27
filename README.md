@@ -14,4 +14,4 @@ Let's say you have a repo already and a project that is the clone of that repo a
 cd <your-project/repo-name>
 lazygit deploy
 ```
-And you're done! Your changes should be changed.
+And you're done! Your changes should be committed.
